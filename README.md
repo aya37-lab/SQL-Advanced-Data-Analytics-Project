@@ -10,7 +10,7 @@ Advanced SQL analysis on a retail Data Warehouse using **Window Functions, CTEs,
 This project builds on the EDA foundation (Project 1) and moves into deeper analytical techniques used in professional data analytics environments.
 
 ## 📖 Full Documentation & Screenshots
-👉 **[Click here to view complete project documentation on Notion](PASTE YOUR NOTION LINK HERE)**
+👉 **[Click here to view complete project documentation on Notion](https://www.notion.so/Project-2-Advanced-SQL-Data-Analysis-36a6a1bbb6e480259a58c775c34dcad9?source=copy_link)**
 
 ---
 
@@ -84,5 +84,5 @@ This project builds on the EDA foundation (Project 1) and moves into deeper anal
 ---
 
 ## 🔗 Related Project
-👉 [Project 1 — SQL Exploratory Data Analysis (EDA)](PASTE YOUR PROJECT 1 GITHUB LINK HERE)
+👉 [Project 1 — SQL Exploratory Data Analysis (EDA)](https://www.notion.so/Project-1-SQL-EDA-3686a1bbb6e4807796eef5f9f8693ea3?source=copy_link)
 Advanced SQL project analyzing sales trends, revenue concentration,  customer behavior (VIP/Regular/New), and product performance  using CTEs, Window Functions, and reporting Views | SQL Server
