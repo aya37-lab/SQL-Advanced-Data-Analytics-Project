@@ -10,7 +10,7 @@ Advanced SQL analysis on a retail Data Warehouse using **Window Functions, CTEs,
 This project builds on the EDA foundation (Project 1) and moves into deeper analytical techniques used in professional data analytics environments.
 
 ## 📖 Full Documentation & Screenshots
-👉 **[Click here to view complete project documentation on Notion](https://www.notion.so/Project-2-Advanced-SQL-Data-Analysis-36a6a1bbb6e480259a58c775c34dcad9?source=copy_link)**
+👉 **[Click here to view complete project documentation on Notion](https://third-jackal-553.notion.site/Project-2-Advanced-SQL-Data-Analysis-36a6a1bbb6e480259a58c775c34dcad9?source=copy_link)**
 
 ---
 
